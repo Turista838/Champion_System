@@ -17,3 +17,11 @@ You need to lauch the arbitro.c first, and then the client.c. You can modify the
 ```exit``` -> exits the system (all clients are notified)<br/>
 ```players``` -> lists all players (clients) connected<br/>
 ```games``` -> lists all games available<br/>
+```end``` -> ends championship immediately<br/>
+```sXXXX``` -> suspends communication with XXXX (client name) player<br/>
+```rXXXX``` -> reactivate communication with XXXX (client name) player<br/>
+```kXXXX``` -> kick XXXX (client name) player<br/>
+* Client.c:<br/>
+```#quit``` -> quit and exits the championship<br/>
+```#mygame``` -> game information<br/>
+```info``` -> debug command for critical information<br/>
