@@ -12,3 +12,6 @@ This project consists of a game championship management system called Champion, 
 You need to lauch the arbitro.c first, and then the client.c
 
 #### Commands:
+
+* Arbitro.c:<br/>
+´´´asdasd``` dsad
