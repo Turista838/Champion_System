@@ -31,4 +31,4 @@ You need to lauch the arbitro.c first, and then the client.c. You can modify the
 * g_divinha_num – Consists of guessing a number, from 0 to 10.
 * g_contas – Consists of performing simple arithmetic operations.
 * g_translate – It consists of translating words.
-<br/>For each correct answer, a point is added.
+<br/><br/>For each correct answer, a point is added.
