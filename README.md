@@ -9,7 +9,7 @@ Made in collaboration with another student
 #### Guide:
 
 This project consists of a game championship management system called Champion, where the basic concept of such an ongoing system involves a referee (system administrator), several players (called clients and it is mandatory to be at least 2) and one or more games.<br/>All games are singleplayer, that is, there are no players directly competing against each other.<br/>Communication between games and players is done through the referee. He also has the power to select messages from players and act upon their request, as well as administrator commands.<br/>At the end of the championship, all games are over and each player receives his score. These can then return to play in a new game if they wish.<br/><br/>
-You need to lauch the arbitro.c first, and then the client.c. You can modify the duration for the championship and the time left for new clients to connect using arguments when launching arbitro.c (```-dXX``` for the duration of the championship, ```-tYY``` for the time left for new clients to connect) (XX is in minutes, YY is in seconds). If no argument is detected, the system will use a standard time.
+You need to launch the arbitro.c first, and then the client.c. You can modify the duration for the championship and the time left for new clients to connect using arguments when launching arbitro.c (```-dXX``` for the duration of the championship, ```-tYY``` for the time left for new clients to connect) (XX is in minutes, YY is in seconds). If no argument is detected, the system will use a standard time.
 
 #### Commands:
 
